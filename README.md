@@ -1,4 +1,4 @@
-Hi, my name is Elisa, and I am a student in Concordia University. 
+Hi, my name is Elisa, and I am a student at Concordia University. 
 Currently studying computer science and specializing in cybersecurity. Check out my projects here! 
 
 <!---
