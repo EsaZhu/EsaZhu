@@ -1,5 +1,5 @@
 Hi, my name is Elisa, and I am a student at Concordia University. 
-Currently studying computer science and specializing in cybersecurity. Check out my projects here! 
+Currently studying computer science. Check out my projects here! 
 
 <!---
 EsaZhu/EsaZhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
